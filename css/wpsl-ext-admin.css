@@ -1,0 +1,205 @@
+/**
+ ** file: wpsl-ext-admin.css
+ ** label: WPSL-UML
+ ** description: Some styles for showing the EXT admin screens.
+ **
+ **/
+
+/*---------------------
+ * Input
+ *---------------------*/
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
+	min-width: 267px;
+}
+
+
+/* Settings page */
+#wpsl-wrap.wpsl-ext-settings h2 {
+    margin-bottom: 15px;
+}
+#wpsl-wrap.wpsl-ext-settings .wpsl-error {
+    border: 1px solid #c01313;
+}
+#wpsl-wrap.wpsl-ext-settings input[type=text].textinput {
+    width:255px;
+}
+
+#wpsl-wrap.wpsl-ext-settings .metabox-holder {
+    width:100%;
+}
+
+#wpsl-wrap.wpsl-ext-settings .metabox-holder h3:hover {
+    cursor: auto;
+}
+
+#wpsl-ext-settings-form .postbox-container {
+    width: 550px;
+    clear: both;
+}
+
+.wpsl-ext-icon-form .postbox-container {
+    width: 100%!important;
+}
+
+#fs-notice label {
+    width: 200px!important;
+    margin-top: 0px!important;
+}
+
+.wpsl-ext-datetime-format, .wpsl-ext-date-format, .wpsl-ext-time-format {
+    display: none;
+}
+
+#wpsl-ext-settings-form label {
+    position: relative;
+    display: inline-block;
+    font-weight: normal;
+    margin: 0 10px 0 0;
+    width: 220px;
+}
+#wpsl-ext-settings-form .wpsl-radioboxes label {
+    float: none;
+    margin-right: 10px;
+    width: auto;
+}
+#wpsl-ext-settings-form em,
+.wpsl-store-meta em {
+    display: block;
+}
+
+#wpsl-ext-settings-form .wpsl-info em {
+    display: inline;
+}
+
+#wpsl-ext-settings-form #wpsl-store-hours {
+    width: 100%;
+}
+
+#wpsl-ext-settings-form #wpsl-store-hours th {
+    text-align: left;
+}
+
+#wpsl-ext-settings-form #wpsl-store-hours .wpsl-opening-day {
+    width: 150px;
+}
+
+#wpsl-ext-settings-form #wpsl-store-hours td p  {
+    padding: 10px 0 0 0;
+    margin: 0;
+    text-align: left;
+}
+
+/* Markers */
+.wpsl-ext-marker-list {
+    overflow: hidden;
+}
+.wpsl-ext-marker-list li {
+    float: left; 
+    padding: 10px; 
+    margin-right: 5px;
+    text-align: center;
+	width: 30px;
+}
+.wpsl-ext-marker-list li input[type="radio"] {
+    margin-right: 0;
+}
+.wpsl-ext-marker-list img {
+    display: block;
+    margin-bottom: 7px;
+	width: 100%;
+}
+.wpsl-ext-marker-list li:hover,
+.wpsl-ext-active-marker {
+    background: #E4E4E4; 
+    border-radius:5px;
+    cursor: pointer;
+}
+
+/* Make the location table scrollable */
+.post-type-wpsl_stores div.wrap {overflow-x:scroll; width:98%;}
+.post-type-wpsl_stores table.wp-list-table.fixed{table-layout:auto;}
+
+.post-type-wpsl_stores table.wp-list-table th#title{min-width:250px;}
+.post-type-wpsl_stores table.wp-list-table th#date{min-width:150px;}
+.post-type-wpsl_stores table.wp-list-table th#address{min-width:150px;}
+.post-type-wpsl_stores table.wp-list-table th#author{min-width:100px;}
+.post-type-wpsl_stores table.wp-list-table th#taxonomy-wpsl_store_category{min-width:150px;}
+
+/* Name Search Inputs */
+#wpsl-ext-name-selector {
+/*  display: block; */
+  clear: both;
+}
+
+#wpsl-ext-name-selector input {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+/* Slug Search Inputs */
+#wpsl-ext-slug-selector {
+  display: inline-block;
+}
+
+#wpsl-ext-slug-selector .wpsl-ext-slug-selector.parent {
+  display: block;
+  float: left;
+}
+
+#wpsl-ext-slug-selector .wpsl-ext-slug-selector.child {
+  display: none;
+  float: left;
+  margin-left: 0.2em;
+}
+
+#wpsl-ext-slug-cascade-dropdowns {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+/* Event Category Search Inputs */
+#wpsl-ext-event-category-selector {
+  display: inline-block;
+}
+
+#wpsl-ext-event-category-selector .wpsl-ext-event-category-selector.parent {
+  display: block;
+  float: left;
+}
+
+#wpsl-ext-event-category-selector .wpsl-ext-event-category-selector.child {
+  display: none;
+  float: left;
+  margin-left: 0.2em;
+}
+
+#wpsl-ext-event-category-cascade-dropdowns {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+/* Event Status Search Inputs */
+#wpsl-ext-event-status-selector {
+  display: inline-block;
+  width: 100%;
+}
+
+#wpsl-ext-event-status-selector .wpsl-ext-event-status-selector.parent {
+  display: block;
+  float: left;
+}
+
+#wpsl-ext-event-status-selector .wpsl-ext-event-status-selector.child {
+  display: none;
+  float: left;
+  margin-left: 0.2em;
+}
+
+#wpsl-ext-event-status-cascade-dropdowns {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}

@@ -1,0 +1,1099 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Store Locator - CSV v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 09:48+0100\n"
+"PO-Revision-Date: 2015-09-01 13:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/admin/class-WPSL_EXT_Activate.php:162
+msgid "The basic Facebook social media as provided by default."
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Activate.php:173
+#: include/social/class-WPSL_EXT_Social.php:159
+msgid "The basic Twitter social media as provided by default."
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Admin.php:324
+msgid "Extenders"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Admin.php:376
+msgid "Extenders Settings"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Admin.php:378
+msgid "Events"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Admin.php:379
+msgid "Social Media"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Admin.php:385
+msgid "WPSL Extenders"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Render_Settings.php:788
+#, php-format
+msgid "Could not read icon directory %s"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:85
+msgid "Default section"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:91
+msgid ""
+"Define the default section to show when landing on this Extenders page."
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:131
+msgid "General datetime format:"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:139
+msgid "Shows the format used for datetime options."
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:140
+#, php-format
+msgid ""
+"It is a combination of the general date time settings as defined on the <a "
+"href=\"%s\">General Settings</a> page."
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:300
+msgid "Save Settings"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:303
+msgid "General Settings"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:305
+msgid "Social Media Settings"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:309
+msgid "User Managed Locations Settings"
+msgstr ""
+
+#: include/admin/class-WPSL_EXT_Settings.php:313
+msgid "Event Locations Settings"
+msgstr ""
+
+#: include/class-WPSL_Extenders.php:185
+#, php-format
+msgid ""
+"Please install and activate the latest version of %s WP Store Locator%s "
+"before using the WPSL Extenders add-on."
+msgstr ""
+
+#: include/class-WPSL_Extenders.php:196
+#, php-format
+msgid ""
+"Please upgrade WP Store Locator to the %s latest version%s before using "
+"the WPSL Extenders add-on."
+msgstr ""
+
+#: include/class-WPSL_Extenders.php:325
+msgctxt "timezone date format"
+msgid "Y-m-d G:i:s"
+msgstr ""
+
+#: include/class-WPSL_Extenders.php:397
+msgid "Default with extended search options"
+msgstr ""
+
+#: include/class-WPSL_Extenders.php:402
+msgid "Below with extended search options"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:155
+msgctxt "class general name"
+msgid "Event categories"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:156
+msgctxt "class singular name"
+msgid "Event category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:157
+msgid "Search Event categories"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:158
+msgid "All Event categories"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:159
+msgid "Parent Event category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:160
+msgid "Parent Event category:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:161
+msgid "Edit Event category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:162
+msgid "Update Event category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:163
+msgid "Add New Event category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:164
+msgid "New Event category Name"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:165
+msgid "Event Categories"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:186
+msgctxt "class general name"
+msgid "Event statuses"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:187
+msgctxt "class singular name"
+msgid "Event status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:188
+msgid "Search Event statuses"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:189
+msgid "All Event statuses"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:190
+msgid "Parent Event status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:191
+msgid "Parent Event status:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:192
+msgid "Edit Event status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:193
+msgid "Update Event status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:194
+msgid "Add New Event status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:195
+msgid "New Event status Name"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:196
+msgid "Event Statuses"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:235
+msgid "The basic event as provided by default."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events.php:966
+#, php-format
+msgid "Event %s (%s) successfully deleted."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:178
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:489
+msgid "Edit Event"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:180
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:472
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:492
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:513
+msgid "Add Event"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:216
+#: include/events/class-WPSL_EXT_Events_Admin.php:398
+#: include/events/class-WPSL_EXT_Events_Object.php:109
+msgid "Event Name"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:223
+msgid "The name of this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:229
+#: include/events/class-WPSL_EXT_Events_Admin.php:398
+#: include/events/class-WPSL_EXT_Events_Object.php:110
+msgid "Event Slug"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:237
+msgid "The slug for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:242
+#: include/events/class-WPSL_EXT_Events_Object.php:117
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:245
+#: include/social/class-WPSL_EXT_Social_Object.php:108
+msgid "Description"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:249
+msgid "The description for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:254
+msgid "Event Start"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:262
+msgid "The start date and time for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:267
+msgid "Event End"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:275
+msgid "The end date and time for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:281
+#, php-format
+msgid "Event <a href=\"%s\">Category</a>"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:289
+msgid "No Event Category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:292
+msgid "The category for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:293
+#: include/events/class-WPSL_EXT_Events_Options.php:454
+#, php-format
+msgid "The <a href=\"%s\">Event Category Manager</a>"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:295
+#: include/events/class-WPSL_EXT_Events_Options.php:455
+msgid " provides a full management interface for Event Categories."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:300
+#, php-format
+msgid "Event <a href=\"%s\">Status</a>"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:308
+msgid "No Event Status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:311
+msgid "The status for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:312
+#: include/events/class-WPSL_EXT_Events_Options.php:457
+#, php-format
+msgid "The <a href=\"%s\">Event Status Manager</a>"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:314
+#: include/events/class-WPSL_EXT_Events_Options.php:458
+msgid " provides a full management interface for Event Statuses."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:320
+msgid "Event Base URL"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:327
+msgid ""
+"The url to show more information on this event, e.g. https://twitter.com."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:346
+#: include/events/class-WPSL_EXT_Events_Object.php:116
+msgid "Event Icon"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:351
+msgid "Event:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:354
+msgid "The url to the icon for this event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:490
+msgid "Save Event ID"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_AddEdit.php:493
+msgid "Save New Event"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:133
+msgid "Extenders Events"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:396
+msgid "Event not added!"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:397
+msgid "The add event form on your server is not rendering properly."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:398
+#: include/social/class-WPSL_EXT_Social_Admin.php:388
+#, php-format
+msgid "At least one of the fields %s or %s is mandatory."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:412
+#, php-format
+msgid "Event %s not added because slug %s already exists!"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:419
+#, php-format
+msgid "Event %s added successfully for %s."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Admin.php:421
+#, php-format
+msgid "Event %s not added!"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Frontend.php:351
+#: include/events/class-WPSL_EXT_Events_Frontend.php:384
+#: include/events/class-WPSL_EXT_Events_Frontend.php:411
+msgid "Events:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Frontend.php:487
+msgid "Window Events"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:108
+#: include/social/class-WPSL_EXT_Social_Object.php:104
+msgid "ID"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:111
+msgid "Start Date"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:112
+msgid "End Date"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:113
+msgid "Category"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:114
+msgid "Status"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:115
+msgid "Event URL"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:118
+#: include/social/class-WPSL_EXT_Social_Object.php:110
+msgid "Option Values"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:119
+#: include/social/class-WPSL_EXT_Social_Object.php:111
+msgid "Last Updated"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Object.php:360
+#, php-format
+msgid "Could not add %s as a new event object!"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:77
+msgid "Show Events in All Stores"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:84
+msgid ""
+"Whether to show the Events for each store in columns in the All Stores "
+"overview list."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:89
+msgid "Add Block To Event Legend?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:96
+msgid ""
+"When enabled a block will appear under each event icon shown in the legend."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:101
+msgid "Add Text To Event Legend?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:108
+msgid ""
+"When enabled text will appear under each event icon shown in the legend."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:113
+msgid "Hide Empty Events?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:120
+msgid ""
+"Hide the empty categories from the event selector. Locations not published "
+"are considered \"empty\"."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:142
+msgid "Event Name Selector"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:150
+msgid "Use Event Name Selector?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:157
+msgid "Whether to show the event name selector on the search form."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:162
+msgid "Event Name Selector Label:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:167
+msgid "Event Name:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:169
+msgid "The label for the event name selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:174
+msgid "Event Name Selector First Entry:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:181
+msgid ""
+"If set, prepends this text to select \"any event\" as an option to the "
+"name selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:203
+msgid "Event Slug Selector"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:212
+msgid "Use Event Slug Selector?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:219
+msgid "Whether to show the event slug selector on the search form."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:224
+msgid "Event Slug Selector Label"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:229
+msgid "Event List:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:231
+msgid "The label for the event slug selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:236
+msgid "Event Slug Selector First Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:243
+msgid ""
+"If set, prepends this text to select \"any event\" as an option to the "
+"slug selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:248
+msgid "Event Slug Selector None Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:255
+msgid "The second entry on the search by Event Slug selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:256
+msgid ""
+"This value can be used to search for locations NOT related to any event."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:278
+msgid "Event Category Selector"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:287
+msgid "Use Event Category Selector?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:294
+msgid "Whether to show the event category selector on the search form."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:299
+msgid "Event Category Selector Label"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:304
+msgid "Event Category:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:306
+msgid "The label for the event category selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:311
+msgid "Event Category Selector First Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:318
+msgid ""
+"If set, prepends this text to select \"any category\" as an option to the "
+"category selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:323
+msgid "Event Category Selector None Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:330
+msgid "The second entry on the search by Event Category selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:331
+msgid ""
+"This value can be used to search for locations NOT related to any event "
+"category."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:353
+msgid "Event Status Selector"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:362
+msgid "Use Event Status Selector?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:369
+msgid "Whether to show the event status selector on the search form."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:374
+msgid "Event Status Selector Label"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:379
+msgid "Event Status:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:381
+msgid "The label for the event status selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:386
+msgid "Event Status Selector First Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:393
+msgid ""
+"If set, prepends this text to select \"any status\" as an option to the "
+"status selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:398
+msgid "Event Status Selector None Entry"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:405
+msgid "The second entry on the search by Event Status selector."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:406
+msgid ""
+"This value can be used to search for locations NOT related to any event "
+"status."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:428
+#: include/social/class-WPSL_EXT_Social_Options.php:278
+msgid "Some additional settings"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:437
+msgid "Event Icon Location:"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:444
+msgid "Shows the location where event icons are stored."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:449
+msgid "Category and Status settings"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:463
+msgid "Event Categories in Admin Menu?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:470
+msgid ""
+"Whether to show the Event Categories sub menu entry in the Store Locator "
+"menu item list."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:475
+msgid "Event Statuses in Admin Menu?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Options.php:482
+msgid ""
+"Whether to show the Event Statuses sub menu entry in the Store Locator "
+"menu item list."
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:239
+#: include/social/class-WPSL_EXT_Social_Table.php:235
+msgid "Edit"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:244
+#: include/social/class-WPSL_EXT_Social_Table.php:240
+msgid "Delete"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:246
+#: include/social/class-WPSL_EXT_Social_Table.php:242
+#, php-format
+msgid "Delete %s?"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:322
+#: include/social/class-WPSL_EXT_Social_Table.php:305
+msgid "Delete Permanently"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:357
+#: include/social/class-WPSL_EXT_Social_Table.php:340
+msgid "Show All"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:384
+msgid "Filter Events By"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:400
+#: include/social/class-WPSL_EXT_Social_Table.php:383
+msgid "Filter"
+msgstr ""
+
+#: include/events/class-WPSL_EXT_Events_Table.php:475
+msgid "No events were found."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social.php:791
+#, php-format
+msgid "Social %s (%s) successfully deleted."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:179
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:445
+msgid "Edit Social Media"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:181
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:398
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:422
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:448
+msgid "Add Social Media"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:215
+#: include/social/class-WPSL_EXT_Social_Admin.php:388
+#: include/social/class-WPSL_EXT_Social_Object.php:105
+msgid "Social Name"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:222
+msgid "The name of this social medium."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:232
+#: include/social/class-WPSL_EXT_Social_Admin.php:388
+#: include/social/class-WPSL_EXT_Social_Object.php:106
+msgid "Social Slug"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:240
+msgid "The slug for this social medium."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:252
+msgid "The description for this social medium."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:258
+msgid "Social Base URL"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:265
+msgid "The base url for this social medium, e.g. https://twitter.com."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:270
+#: include/social/class-WPSL_EXT_Social_Object.php:107
+msgid "Social Icon"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:275
+#: include/social/class-WPSL_EXT_Social_Frontend.php:171
+#: include/social/class-WPSL_EXT_Social_Frontend.php:197
+#: include/social/class-WPSL_EXT_Social_Options.php:155
+#: include/social/class-WPSL_EXT_Social_Options.php:167
+#: include/social/class-WPSL_EXT_Social_Options.php:229
+msgid "Social Media:"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:278
+msgid "The url to the icon for this social medium."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:446
+msgid "Save Social Media ID"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_AddEdit.php:449
+msgid "Save New Social Media"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:133
+msgid "Extenders Socials"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:386
+msgid "Social Media not added!"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:387
+msgid "The add social form on your server is not rendering properly."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:402
+#, php-format
+msgid "Social %s not added because slug %s already exists!"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:409
+#, php-format
+msgid "Social %s added successfully for %s."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Admin.php:411
+#, php-format
+msgid "Social %s not added!"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Object.php:109
+msgid "Base URL"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Object.php:352
+#, php-format
+msgid "Could not add %s as a new social object!"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:76
+msgid "Show Social Media in All Stores"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:83
+msgid ""
+"Whether to show the Social Media for each store in columns in the All "
+"Stores overview list."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:88
+msgid "Add Block To Social Media Legend?"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:95
+msgid ""
+"When enabled a block will appear under each social media icon shown in the "
+"legend."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:100
+msgid "Add Text To Social Media Legend?"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:107
+msgid ""
+"When enabled text will appear under each social media icon shown in the "
+"legend."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:112
+msgid "Hide Empty Social Media?"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:119
+msgid ""
+"Hide the empty categories from the social media selector. Locations not "
+"published are considered \"empty\"."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:141
+msgid "Social Name Selector"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:150
+msgid "Use Social Name Selector?"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:157
+msgid "Whether to show the social media name selector on the search form."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:162
+msgid "Social Name Selector Label"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:169
+msgid "The label for the social name selector."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:174
+msgid "Social Name Selector First Entry"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:181
+msgid ""
+"If set, prepends this text to select \"any social media\" as an option to "
+"the name selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:203
+msgid "Social Slug Selector"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:212
+msgid "Use Social Slug Selector?"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:219
+msgid "Whether to show the social media slug selector on the search form."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:224
+msgid "Social Slug Selector Label"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:231
+msgid "The label for the social slug selector."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:236
+msgid "Social Slug Selector First Entry"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:243
+msgid ""
+"If set, prepends this text to select \"any social media\" as an option to "
+"the slug selector. Set to blank to not provide the any selection."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:248
+msgid "Social Slug Selector None Entry"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:255
+msgid "The second entry on the search by Social Slug selector."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:256
+msgid ""
+"This value can be used to search for locations NOT related to any social."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:287
+msgid "Social Icon Location:"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Options.php:294
+msgid "Shows the location where social icons are stored."
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Table.php:367
+msgid "Filter Socials By"
+msgstr ""
+
+#: include/social/class-WPSL_EXT_Social_Table.php:458
+msgid "No socials were found."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:146
+msgid "Edit location:"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:181
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:182
+msgid "edit location"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:216
+msgid "User is allowed to manage locations."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:218
+#, php-format
+msgid "Currently managing one location."
+msgid_plural "Currently managing %d locations."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:221
+msgid "User is not allowed to manage any location."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:226
+msgid "WP Store Locator"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:229
+msgid "User Managed Locations"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:334
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:373
+msgid "Allow"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:335
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:374
+msgid "Disallow"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:347
+msgid "Manage Stores"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:348
+msgid "Locations"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:392
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:395
+msgid "Disallowed"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged.php:395
+msgid "Allowed"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:71
+msgid "Publish location immediately?"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:77
+msgid "When checked a newly entered location is published immediately."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:78
+msgid ""
+"When not checked, the geocode of a newly entered location is removed to "
+"block publishing."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:79
+msgid ""
+"This needs the re-geocoding functionality to publish blocked locations."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:84
+msgid "Allow new user by default?"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:90
+msgid ""
+"When checked a newly added user is allowed to manage locations immediately."
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:95
+msgid "Show edit buttons?"
+msgstr ""
+
+#: include/usermanaged/class-WPSL_EXT_UserManaged_Options.php:101
+msgid ""
+"When checked an edit button is added to assist managing a users locations."
+msgstr ""
+
+#: templates/ext-default.php:12 templates/ext-store-listings-below.php:12
+msgid "Your location"
+msgstr ""
+
+#: templates/ext-default.php:21 templates/ext-store-listings-below.php:21
+msgid "Search radius"
+msgstr ""
+
+#: templates/ext-default.php:30 templates/ext-store-listings-below.php:30
+msgid "Results"
+msgstr ""
+
+#: templates/ext-default.php:48 templates/ext-store-listings-below.php:48
+msgid "Search"
+msgstr ""
+
+#: templates/ext-default.php:66 templates/ext-store-listings-below.php:72
+#, php-format
+msgid "Search provided by %sWP Store Locator%s"
+msgstr ""
+
+#: wp-store-locator-extenders.php:322
+msgid "WP Store Locator Extenders upload directory error."
+msgstr ""

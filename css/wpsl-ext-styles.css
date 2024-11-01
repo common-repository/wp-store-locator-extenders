@@ -1,0 +1,119 @@
+/**
+ ** file: wpsl-ext-styles.css
+ ** label: WPSL-EXT-STYLES
+ ** description: Some styles for showing the EXT results.
+ **
+ **/
+
+/*---------------------
+ * Results
+ *---------------------*/
+a.uml-buttons {
+	width: 20px;
+	color: #3b8dbd;
+}
+
+/**
+ * DashIcons
+ */
+.dashicons.wpsl-no-box-shadow {
+	box-shadow: none;
+}
+
+/* Settings for icons */
+img.wpsl-ext-icon {
+	max-width: 32px;
+	padding: 2px;
+	line-height:0.3em;
+}
+.wpsl-ext-icon {
+	max-width: 50px;
+	line-height:0.4em;
+}
+
+#wpsl-ext-legend {
+  border: 3px double #444444;
+  padding: 12px;
+  margin: 20px 0px 10px 0px;
+}
+
+#wpsl-ext-legend .legend-text, #wpsl-ext-icon .legend-text {
+}
+/**
+ */
+.legend-text {
+  display: inline-block;
+  margin-left: 3px;
+  margin-right: 3px;
+  vertical-align: middle;
+  word-wrap: anywhere;
+  font-size: 50%
+}
+
+#wpsl-ext-list {
+  margin: -20px 0px 0px 0px;
+}
+
+#wpsl-ext-legend .legend-header {
+  display: inline-block;
+  margin: -60px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  background-color: #EEEEEE;
+  font-style: italic;
+  vertical-align: middle;
+}
+
+#wpsl-ext-legend .tagalong-legend-icon {
+  display: inline-block;
+  margin-bottom: 12px;
+  min-width: 190px;
+}
+
+/**
+ * Search_form elements
+ */
+#wpsl-extend-search-wrap {
+	width: 100%;
+}
+
+.wpsl-events-search-wrap, .wpsl-social-search-wrap {
+	width: 48%;
+	margin-right: 2% !important;
+	border-top: 1px solid #AAAAAA;
+	padding-top: 12px;
+}
+
+.wpsl_search_form .search_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: stretch
+}
+
+.wpsl_search_form .search_box .search_item {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: stretch;
+    margin-bottom: .25em
+}
+
+.wpsl_search_form .search_box .search_item label {
+    text-align: right;
+    min-width: 8em;
+    margin-right: .25em
+}
+
+.wpsl_search_form .search_box .search_item div {
+    flex: 1 1 auto;
+    display: flex
+}
+
+.wpsl_search_form .search_box .search_item #radius_in_submit {
+    text-align: right
+}
+
+.wpsl_search_form .search_box .search_item .wpsl_ui_button {
+    margin: .25em 0
+}
